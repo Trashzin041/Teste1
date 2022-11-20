@@ -1,9 +1,9 @@
 import telebot, requests, re, json
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-FULL = [779455996,1625562699,-1001509745317,-1001472038306,-1001558388459,-1001443222542,-1001312766377,-1001588604830]
+FULL = [5718158766]
 
-bot = telebot.TeleBot("5043800716:AAGx5aJcCWq3xmqQmp7HNEOOaeeuCnQ0mB8")
+bot = telebot.TeleBot("5530584339:AAGxTRcDPViYhNP-2R4yospKmjodLSjUNe0")
 
 def back_markup():
     markup = InlineKeyboardMarkup()
